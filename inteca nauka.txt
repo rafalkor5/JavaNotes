@@ -1,0 +1,13 @@
+Git branches
+https://app.pluralsight.com/library/courses/git-branches-working/table-of-contents
+
+Gitlab ci/cd
+https://app.pluralsight.com/library/courses/gitlab-fundamentals/table-of-contents
+
+Keycloak
+https://www.youtube.com/watch?v=RhvuS1NO76o
+
+JWT
+https://www.youtube.com/watch?v=GNfxKfgGY1o
+
+https://10015.io/

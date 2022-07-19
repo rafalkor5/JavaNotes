@@ -1,0 +1,49 @@
+Git branches
+https://app.pluralsight.com/library/courses/git-branches-working/table-of-contents	***
+
+Gitlab ci/cd
+https://app.pluralsight.com/library/courses/gitlab-fundamentals/table-of-contents	***
+
+Security
+https://amigoscode.com/p/spring-boot-security ? NIepotrzebne
+
+JWT
+amigoscode
+https://www.youtube.com/watch?v=VVn9OG9nfH0
+---------------------------------------------------------------------
+dąbrowski
+https://nullpointerexception.pl/spring-security-i-json-web-token/
+https://nullpointerexception.pl/spring-security-uwierzytelnienie-przy-pomocy-jsona/	***
+||||||||||||||||||||||||||||||||||||||||||||
+https://www.youtube.com/watch?v=and2DR_N6tE
+--------------------------------------------------------------------------------
+bykowski troche nieaktualne
+https://www.youtube.com/watch?v=cTR6qmp9w50	***
+https://www.youtube.com/watch?v=w09bG48UJU0 	***
+https://spring.io/blog/2022/02/21/spring-security-without-the-websecurityconfigureradapter
+
+Oauth2
+
+OpenIdConnect
+
+bykowski
+https://www.youtube.com/watch?v=QG0Pt6TOZIY
+
+Quarkus
+
+
+Keycloak
+Wstęp
+https://www.youtube.com/watch?v=RhvuS1NO76o	***
+Niko Köbler (@dasniko)
+https://www.youtube.com/c/NikoK%C3%B6bler/videos
+
+INNE:
+
+https://10015.io/
+Decode token
+https://jwt.io/
+
+https://spring.io/blog/2022/02/21/spring-security-without-the-websecurityconfigureradapter
+
+https://www.udemy.com/course/oauth2-in-spring-boot-applications/
